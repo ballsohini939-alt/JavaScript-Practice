@@ -1,0 +1,12 @@
+let name = "Sohini";
+let age = 19;
+let percentage = 89.2;
+let student = true;
+console.log(name);
+console.log(age);
+console.log(percentage);
+console.log(student);
+console.log(typeof name);
+console.log(typeof age);
+console.log(typeof percentage);
+console.log(typeof student);
